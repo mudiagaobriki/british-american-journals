@@ -2,14 +2,14 @@ export const sliderSix = [
   {
     id: 1,
     bg: "slider-six-1-1.jpg",
-    text: "Welcome to best linoor business agency",
-    title: "meet the corporate \n business agency",
+    text: "\n",
+    title: "\n\n\n",
   },
   {
     id: 2,
     bg: "slider-six-1-2.jpg",
-    text: "Welcome to best linoor business agency",
-    title: "meet the corporate \n business agency",
+    text: "\n",
+    title: "\n\n\n\n",
   },
 ];
 

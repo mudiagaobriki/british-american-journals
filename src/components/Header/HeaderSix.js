@@ -15,7 +15,7 @@ const HeaderSix = () => {
         <div className="header-six__logo">
           <Link href="/index-main">
             <a>
-              <Image src={logo6.src} width={134} alt={title} />
+              <Image src={logo6.src} width={154} alt={title} />
             </a>
           </Link>
 
