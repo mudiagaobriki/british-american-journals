@@ -56,36 +56,36 @@ export const aboutSectionThree = {
 
 export const aboutSeven = {
   images: [image6, image7],
-  tagline: "About Company",
-  title: "We provide the best business services",
-  text: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, simply free text by injected humour, or randomised.",
-  title2: "Linoor is the largest digital marketing agency.",
+  tagline: "",
+  title: "",
+  text: "We're a global, open-access platform for journals, committed to top-tier research services and publication. Our mission is to uncover groundbreaking advancements in knowledge. Through modern publishing practices, rigorous peer review, and scientific methods, we empower researchers to share discoveries, access existing work, and engage in vital discussions within the research community.\n" +
+      "\n" +
+      "Submit Your Paper today! \n",
+  title2: "",
   lists: [
-    "We’re professional and certified designers",
-    "We use quality material to make your walls awesome",
-    "We care about our customers satisfaction",
+
   ],
 };
 
 export const aboutSix = {
-  tagline: "Our Company Benefits",
-  title: "Mission is to protect your business",
-  text: "There are many variations of passages of available but the majority have suffered alteration in some form, injected humou or randomised words slightly believable.",
+  tagline: "",
+  title: "Research that makes impact",
+  text: "We foster a global community of knowledge sharing and innovation by partnering with various organizations to produce high-quality, ethical research across multiple domains.",
   image: image8,
   items: [
     {
       id: 1,
-      title: "We combine tech with business",
+      title: "Diverse Publication Record",
       icon: "flaticon-idea",
     },
     {
       id: 2,
-      title: "The right people for your businesses",
+      title: "Commitment to Quality and Ethics",
       icon: "flaticon-mouse",
     },
     {
       id: 3,
-      title: "Best way of running a business",
+      title: "Collaborative Community",
       icon: "flaticon-briefcase",
     },
   ],

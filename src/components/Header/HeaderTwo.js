@@ -54,7 +54,7 @@ const HeaderTwo = ({ headerStyle = "mainmenu-six", header = 6 }) => {
               </div>
               <Link href="/contact">
                 <a className="thm-btn__six mainmenu-six__btn">
-                  Get a Free Quote
+                  Publish Your Paper
                 </a>
               </Link>
             </div>

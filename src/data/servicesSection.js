@@ -84,32 +84,34 @@ export const servicesSectionOne = {
 };
 
 export const serviceSix = {
-  tagline: "Checkout Our Services",
-  title: "What we’re offering",
+  tagline: "",
+  title: "",
   services: [
     {
       id: 1,
       image: "service-1-1.jpg",
-      title: "Business Growth",
+      title: "Submit Your Paper",
       href: "/digital-marketing",
       icon: "flaticon-mobile-analytics",
-      text: "Aliq is notm hendr erit a augue insu image pellen simply freed text ipsum.",
+      text: "Speedy publication process (1-3 weeks of acceptance notice).\n" +
+          "Increased readership and visibility (open access journals).",
     },
     {
       id: 2,
       image: "service-1-2.jpg",
-      title: "Marketing Advice",
+      title: "Paper Gets Reviewed",
       href: "/digital-marketing",
       icon: "flaticon-research",
-      text: "Aliq is notm hendr erit a augue insu image pellen simply freed text ipsum.",
+      text: "Articles will be reviewed by two (2) experts in the subject area with extensive teaching and research experience.\n" +
+          "",
     },
     {
       id: 3,
       image: "service-1-3.jpg",
-      title: "Finance Consulting",
+      title: "Paper Gets Published",
       href: "/digital-marketing",
       icon: "flaticon-creative",
-      text: "Aliq is notm hendr erit a augue insu image pellen simply freed text ipsum.",
+      text: "If the article is approved after review, authors will be notified. When all criteria are met, the article will be published.",
     },
   ],
 };

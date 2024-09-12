@@ -21,7 +21,7 @@ const FooterSix = () => {
               <div className="footer-six__widget footer-six__about">
                 <Link href="/">
                   <a>
-                    <Image src={logo6.src} width={135} alt="" />
+                    <Image src={logo6.src} width={195} alt="" />
                   </a>
                 </Link>
                 <p className="footer-six__about__text">{about2}</p>
@@ -41,14 +41,16 @@ const FooterSix = () => {
                   <ul className="footer-six__links__list__item">
                     {links.slice(0, 5).map(({ id, title, href }) => (
                       <li key={id}>
-                        <Link href={href}>{title}</Link>
+                        {/*<Link href={href}>{title}</Link>*/}
+                        <Link href="#">{title}</Link>
                       </li>
                     ))}
                   </ul>
                   <ul className="footer-six__links__list__item">
                     {links.slice(5).map(({ id, title, href }) => (
                       <li key={id}>
-                        <Link href={href}>{title}</Link>
+                        {/*<Link href={href}>{title}</Link>*/}
+                        <Link href="#">{title}</Link>
                       </li>
                     ))}
                   </ul>

@@ -35,25 +35,25 @@ export const funFactSix = [
     id: 1,
     icon: "flaticon-architect",
     count: 6805,
-    text: "Team Members",
+    text: "Articles",
   },
   {
     id: 2,
     icon: "flaticon-architect-1",
     count: 906,
-    text: "Project Completed",
+    text: "Journals",
   },
   {
     id: 3,
     icon: "flaticon-buildings",
-    count: 200,
-    text: "Service Providing",
+    count: 193,
+    text: "Authors",
   },
   {
     id: 4,
     icon: "flaticon-satisfaction",
     count: 9760,
-    text: "Happy Customers",
+    text: "Indexes",
   },
 ];
 

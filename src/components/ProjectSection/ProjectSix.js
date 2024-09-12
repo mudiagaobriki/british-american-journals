@@ -54,6 +54,7 @@ const ProjectSix = () => {
                         .default.src
                     }
                     alt=""
+                    style={{width: '100%', height: 400}}
                   />
                   <div className="project-six__content">
                     <p className="project-six__category">{category}</p>

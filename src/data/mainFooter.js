@@ -6,7 +6,7 @@ import logo7 from "@/images/update-01-10-2021/logo-7-light.png";
 import logo8 from "@/images/update-01-10-2021/logo-8-light.png";
 import logo5 from "@/images/update-09-06-2021/logo-5-light.png";
 
-export const footer = { year: new Date().getFullYear(), author: "Linoor" };
+export const footer = { year: new Date().getFullYear(), author: "British American Journals" };
 
 export const mainFooterDemo = {
   ...footer,
@@ -27,7 +27,7 @@ export const mainFooter = {
   title: "Let’s Start Working Together",
   about:
     "There are many variation of passages of lorem ipsum available, but the majority suffered.",
-  about2: "The new corporate agency theme",
+  about2: "",
   about3:
     "We’ve grown our business on a set of \n three building blocks. Enjoy the \n people you work.",
   text: "Welcome to our web design agency. Lorem ipsum simply free text dolor sited amet cons cing elit.",

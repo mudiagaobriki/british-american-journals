@@ -18779,7 +18779,7 @@ img.lazy-image.loaded {
 }
 
 .project-six__item:hover .project-six__content {
-  opacity: 1;
+  opacity: 0.5;
   visibility: visible;
   -webkit-transform-origin: top center;
   transform-origin: top center;

@@ -2,14 +2,14 @@ export const sliderSix = [
   {
     id: 1,
     bg: "slider-six-1-1.jpg",
-    text: "\n",
-    title: "\n\n\n",
+    text: "Pay Less\n, Publish More",
+    title: "We Publish High Quality Journals at Low Price",
   },
   {
     id: 2,
     bg: "slider-six-1-2.jpg",
-    text: "\n",
-    title: "\n\n\n\n",
+    text: "Pay Less\n, Publish More",
+    title: "We Publish High Quality Journals at Low Price",
   },
 ];
 
