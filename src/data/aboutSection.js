@@ -127,7 +127,7 @@ export const aboutEight = {
 export const aboutEleven = {
   images: ["about-11-1-1.jpg", "about-11-1-2.jpg"],
   tagline: "Our Company Introduction",
-  title: "We Ensure Only Quality Consulting Services for our Clients",
+  title: "We Ensure Only Quality Consulting Services for our Journals",
   text: "Quis aliqua sunt nisi consectetur anim ullamco ea deserunt non voluptate nisi sit elit exercitation eu Lorem. Mollit occaecat nisi occaecat fugiat ullamco.",
   boxes: [
     {

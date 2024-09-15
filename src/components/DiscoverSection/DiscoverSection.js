@@ -30,7 +30,7 @@ const DiscoverSection = ({ ShowTitle = true }) => {
                 </div>
                 <div className="cap-box animated fadeInUp">
                   <div className="cap-inner">
-                    <h5>{title}</h5>
+                    <h5 className="text-white">{title}</h5>
                     <div className="more-link">
                       <Link href="/about">
                         <a>

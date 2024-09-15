@@ -13,23 +13,43 @@ import SponsorsSectionTwo from "@/components/SponsorsSection/SponsorsSectionTwo"
 import TeamSectionTwo from "@/components/TeamSection/TeamSectionTwo";
 import TestimonialsSection from "@/components/TestimonialsSection/TestimonialsSection";
 import React from "react";
+import HeaderSix from "@/components/Header/HeaderSix";
+import HeaderTwo from "@/components/Header/HeaderTwo";
+import FunFactSix from "@/components/FunFacts/FunFactSix";
+import AboutCustom from "@/components/AboutSection/AboutCustom";
+import FooterSix from "@/components/MainFooter/FooterSix";
 
 const About = () => {
   return (
     <Layout pageTitle="About Us">
-      <Style />
-      <HeaderOne />
+      {/*<Style />*/}
+      {/*<HeaderOne />*/}
+        <Style
+            font="Kumbh Sans, sans-serif"
+            bFont="Kumbh Sans, sans-serif"
+            black="#1a3546"
+            text="#6b7881"
+            base="#0a73ff"
+            baseRgb="65, 185, 116"
+            scrollToTopColor="#fff"
+        />
+      <HeaderSix />
+      <HeaderTwo />
       <MobileMenu />
       <SearchPopup />
       <PageBanner title="About" />
       <DiscoverSection ShowTitle={false} />
-      <TestimonialsSection />
-      <FunFacts />
-      <ParallaxSection />
-      <AgencySection />
-      <TeamSectionTwo />
-      <SponsorsSectionTwo />
-      <MainFooter />
+        <AboutCustom />
+      {/*<TestimonialsSection />*/}
+      {/*<FunFacts />*/}
+        <FunFactSix />
+      {/*<ParallaxSection />*/}
+      {/*<AgencySection />*/}
+      {/*<TeamSectionTwo />*/}
+      {/*<SponsorsSectionTwo />*/}
+      {/*<MainFooter />*/}
+        <br/>
+        <FooterSix />
     </Layout>
   );
 };

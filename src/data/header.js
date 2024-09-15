@@ -175,7 +175,7 @@ const navItems = [
     //   { id: 7, name: "FAQs", href: "/faqs" },
     //   { id: 8, name: "Events", href: "/events" },
     //   { id: 9, name: "Event Details", href: "/event-details" },
-    //   { id: 10, name: "Clients Page", href: "/clients" },
+    //   { id: 10, name: "Journals Page", href: "/clients" },
     //   { id: 11, name: "404 Page", href: "/404" },
     //   { id: 12, name: "Login Page", href: "/login" },
     //   { id: 13, name: "Register Page", href: "/register" },

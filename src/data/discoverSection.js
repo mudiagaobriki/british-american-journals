@@ -4,12 +4,12 @@ const discoverSection = {
     {
       id: 1,
       image: "featured-image-11.jpg",
-      title: "All-in-One Web Solution for Your Business",
+      title: "Global Reach and Accessibility",
     },
     {
       id: 2,
       image: "featured-image-12.jpg",
-      title: "The best digital agency you’ll ever need",
+      title: "Efficient and Timely Publication",
     },
   ],
 };
