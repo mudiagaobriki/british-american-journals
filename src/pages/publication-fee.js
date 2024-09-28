@@ -13,7 +13,7 @@ import HeaderTwo from "@/components/Header/HeaderTwo";
 import FooterSix from "@/components/MainFooter/FooterSix";
 import AboutFee from "@/components/AboutSection/AboutFee";
 
-const Processing = () => {
+const PublicationFee = () => {
   return (
     <Layout pageTitle="Pricing Page">
         <Style
@@ -29,7 +29,7 @@ const Processing = () => {
         <HeaderTwo />
         <MobileMenu />
         <SearchPopup />
-        <PageBanner title="Processing Fee" />
+        <PageBanner title="Publication Fee" />
         <br/>
         <AboutFee />
       {/*<PricingOne />*/}
@@ -40,4 +40,4 @@ const Processing = () => {
   );
 };
 
-export default Processing;
+export default PublicationFee;

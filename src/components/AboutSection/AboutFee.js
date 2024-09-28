@@ -9,9 +9,9 @@ const AboutFee = () => {
             {/*<h2 style={{marginBottom: 40}} className="sec-title-six text-center sec-title-six__title mb-4">Conference Proceeding/Special Issue</h2>*/}
             <Row className="mt-4 mb-4" style={{rowGap: 30, marginTop: 20,}}>
                 <p>
-                    All articles we publish are freely accessible online. Submitting your work is free, but if we accept it, you'll need to pay an Article Processing Charge (APC).
+                    All articles we publish are freely accessible online. Submitting your work is free, but if we accept it, you will need to pay an Article Processing Charge (APC).
                     Download this document for a step by step guide
-                    <a href="https://firebasestorage.googleapis.com/v0/b/charis-a9e91.appspot.com/o/Publishing.pdf?alt=media&token=649f149e-950d-45a7-92b0-68e0f5f19ac9" download target="_blank"> Publishing Process and Fee</a>
+                    <a href="https://firebasestorage.googleapis.com/v0/b/charis-a9e91.appspot.com/o/Publishing.pdf?alt=media&token=649f149e-950d-45a7-92b0-68e0f5f19ac9" download target="_blank" rel="noreferrer"> Publishing Process and Fee</a>
                     <br/>
                     To learn more, reach out to us at <a href="#">info@bajournals.com</a>.
                 </p>

@@ -35,7 +35,7 @@ const AboutSix = () => {
           </Col>
           <Col md={12} lg={7} className="animated fadeInRight">
             <div className="about-six__image">
-              <Image src={image.src} alt="" />
+              <Image style={{marginLeft: 30, width: "85%"}} src={image.src} alt="" />
             </div>
           </Col>
         </Row>

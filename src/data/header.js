@@ -13,87 +13,87 @@ import logo9 from "@/images/update-26-02-2021/logo-horizontal-portfolio.png";
 const home = {
   id: 1,
   name: "Home",
-  href: "/index-main",
-  subNavItems: [
-    {
-      id: 1,
-      name: "Home Style 01",
-      href: "/index-main",
-    },
-    {
-      id: 2,
-      name: "Home Style 02",
-      href: "/index-2",
-    },
-    {
-      id: 3,
-      name: "Home Style 03",
-      href: "/index-3",
-    },
-    {
-      id: 4,
-      name: "Home One Page",
-      href: "/one-page",
-    },
-    {
-      id: 5,
-      name: "Home Style 04",
-      href: "/index-4",
-    },
-    {
-      id: 6,
-      name: "Home Style 05",
-      href: "/index-5",
-    },
-    {
-      id: 7,
-      name: "Home Style 06",
-      href: "/index-6",
-      isNew: true,
-    },
-    {
-      id: 8,
-      name: "Home Style 07",
-      href: "/index-7",
-      isNew: true,
-    },
-    {
-      id: 9,
-      name: "Home Style 08",
-      href: "/index-8",
-      isNew: true,
-    },
-    {
-      id: 10,
-      name: "Portfolio Home",
-      href: "/index-portfolio",
-    },
-    {
-      id: 11,
-      name: "Portfolio Home 02",
-      href: "/index-portfolio-2",
-    },
-    {
-      id: 12,
-      name: "Portfolio Home 03",
-      href: "/index-portfolio-3",
-    },
-    {
-      id: 13,
-      name: "Parallax Home",
-      href: "/index-parallax",
-    },
-    {
-      id: 14,
-      name: "Dark Home",
-      href: "/index-dark",
-    },
-    {
-      id: 15,
-      name: "Boxed Home",
-      href: "/index-boxed",
-    },
-  ],
+  href: "/",
+  // subNavItems: [
+  //   {
+  //     id: 1,
+  //     name: "Home Style 01",
+  //     href: "/index-main",
+  //   },
+  //   {
+  //     id: 2,
+  //     name: "Home Style 02",
+  //     href: "/index-2",
+  //   },
+  //   {
+  //     id: 3,
+  //     name: "Home Style 03",
+  //     href: "/index-3",
+  //   },
+  //   {
+  //     id: 4,
+  //     name: "Home One Page",
+  //     href: "/one-page",
+  //   },
+  //   {
+  //     id: 5,
+  //     name: "Home Style 04",
+  //     href: "/index-4",
+  //   },
+  //   {
+  //     id: 6,
+  //     name: "Home Style 05",
+  //     href: "/index-5",
+  //   },
+  //   {
+  //     id: 7,
+  //     name: "Home Style 06",
+  //     href: "/index-6",
+  //     isNew: true,
+  //   },
+  //   {
+  //     id: 8,
+  //     name: "Home Style 07",
+  //     href: "/index-7",
+  //     isNew: true,
+  //   },
+  //   {
+  //     id: 9,
+  //     name: "Home Style 08",
+  //     href: "/index-8",
+  //     isNew: true,
+  //   },
+  //   {
+  //     id: 10,
+  //     name: "Portfolio Home",
+  //     href: "/index-portfolio",
+  //   },
+  //   {
+  //     id: 11,
+  //     name: "Portfolio Home 02",
+  //     href: "/index-portfolio-2",
+  //   },
+  //   {
+  //     id: 12,
+  //     name: "Portfolio Home 03",
+  //     href: "/index-portfolio-3",
+  //   },
+  //   {
+  //     id: 13,
+  //     name: "Parallax Home",
+  //     href: "/index-parallax",
+  //   },
+  //   {
+  //     id: 14,
+  //     name: "Dark Home",
+  //     href: "/index-dark",
+  //   },
+  //   {
+  //     id: 15,
+  //     name: "Boxed Home",
+  //     href: "/index-boxed",
+  //   },
+  // ],
 };
 
 const navItemsTwo = [
@@ -140,7 +140,7 @@ const navItems = [
   {
     id: 2,
     name: "About Us",
-    href: "",
+    href: "/about",
     // subNavItems: [
     //   { id: 1, name: "About Two", href: "/about-2" },
     //   { id: 2, name: "About Me", href: "/about-me" },
@@ -164,7 +164,7 @@ const navItems = [
   {
     id: 3,
     name: "Journals",
-    href: "",
+    href: "/journals",
     // subNavItems: [
     //   { id: 1, name: "Our Pricing", href: "/pricing" },
     //   { id: 2, name: "Pricing 02", href: "/pricing-2", isNew: true },
@@ -191,7 +191,7 @@ const navItems = [
   {
     id: 4,
     name: "Conference",
-    href: "",
+    href: "/conference",
     // subNavItems: [
     //   { id: 1, name: "All Services", href: "/services" },
     //   { id: 2, name: "Services Two", href: "/services-2", isNew: true },
@@ -206,7 +206,7 @@ const navItems = [
   {
     id: 5,
     name: "Publication Fee",
-    href: "",
+    href: "/publication-fee",
     // subNavItems: [
     //   { id: 1, name: "Portfolio", href: "/portfolio" },
     //   { id: 2, name: "Portfolio Single 01", href: "/portfolio-single" },
@@ -238,7 +238,7 @@ const navItems = [
   {
     id: 6,
     name: "Contact",
-    href: "",
+    href: "/contact",
     // subNavItems: [
     //   { id: 1, name: "Contact 01", href: "/contact" },
     //   { id: 2, name: "Contact 02", href: "/contact-2", isNew: true },

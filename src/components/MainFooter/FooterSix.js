@@ -39,18 +39,17 @@ const FooterSix = () => {
                 <h3 className="footer-six__title">Explore</h3>
                 <div className="footer-six__links__list">
                   <ul className="footer-six__links__list__item">
-                    {links.slice(0, 5).map(({ id, title, href }) => (
+                    {links.slice(0, 3).map(({ id, title, href }) => (
                       <li key={id}>
                         {/*<Link href={href}>{title}</Link>*/}
-                        <Link href="#">{title}</Link>
+                        <Link href={href}>{title}</Link>
                       </li>
                     ))}
                   </ul>
                   <ul className="footer-six__links__list__item">
-                    {links.slice(5).map(({ id, title, href }) => (
+                    {links.slice(3,6).map(({ id, title, href }) => (
                       <li key={id}>
-                        {/*<Link href={href}>{title}</Link>*/}
-                        <Link href="#">{title}</Link>
+                        <Link href={href}>{title}</Link>
                       </li>
                     ))}
                   </ul>

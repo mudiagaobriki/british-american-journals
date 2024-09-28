@@ -13,7 +13,7 @@ const AboutConference = () => {
                     conferences. Our conferences are known for their excellent content, networking possibilities, and
                     memorable experiences.
 
-                    If you're a conference organizer interested in publishing your conference proceedings, we offer
+                    If you are a conference organizer interested in publishing your conference proceedings, we offer
                     open-access publishing with a quick turnaround. All conference articles will be published online
                     right after the conference.
 

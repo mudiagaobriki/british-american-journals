@@ -13,6 +13,12 @@ export const contactSection = {
       required: true,
     },
     {
+      name: "country",
+      type: "text",
+      placeholder: "Country",
+      required: true,
+    },
+    {
       name: "phone",
       type: "text",
       placeholder: "Phone Number",
@@ -23,10 +29,11 @@ export const contactSection = {
       type: "text",
       placeholder: "Subject",
       required: true,
+      fullwidth: true,
     },
     {
       name: "message",
-      placeholder: "Write Message",
+      placeholder: "Type your message",
       required: true,
     },
   ],

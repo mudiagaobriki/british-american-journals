@@ -25,7 +25,7 @@ const AboutCustom = () => {
                     <li>Organize conferences and workshops</li>
                     <li>Provide research training for lecturers</li>
                     <li>Foster international research networks</li>
-                    <li>Offer awards and grants to recognize researchers' achievements</li>
+                    <li>Offer awards and grants to recognize the achievements of researchers</li>
                 </ul>
             </Row>
         </div>

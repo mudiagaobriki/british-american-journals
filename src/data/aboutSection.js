@@ -55,7 +55,7 @@ export const aboutSectionThree = {
 };
 
 export const aboutSeven = {
-  images: [image6, image7],
+  images: [image6],
   tagline: "",
   title: "",
   text: "We're a global, open-access platform for journals, committed to top-tier research services and publication. Our mission is to uncover groundbreaking advancements in knowledge. Through modern publishing practices, rigorous peer review, and scientific methods, we empower researchers to share discoveries, access existing work, and engage in vital discussions within the research community.\n" +
