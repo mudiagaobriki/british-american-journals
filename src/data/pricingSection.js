@@ -113,23 +113,23 @@ export const pricingOne = {
     {
       id: 1,
       icon: "flaticon-star",
-      name: "Star Plan",
+      name: "Publishing Fee",
       amount: "20.00",
       features: ["Extra features", "Lifetime free support"],
     },
-    {
-      id: 2,
-      icon: "flaticon-heart",
-      name: "Heart plan",
-      amount: "30.00",
-      features: ["Extra features", "Lifetime free support"],
-    },
-    {
-      id: 3,
-      icon: "flaticon-diamond",
-      name: "Diamond Plan",
-      amount: "40.00",
-      features: ["Extra features", "Lifetime free support", "Upgrade options"],
-    },
+    // {
+    //   id: 2,
+    //   icon: "flaticon-heart",
+    //   name: "Heart plan",
+    //   amount: "30.00",
+    //   features: ["Extra features", "Lifetime free support"],
+    // },
+    // {
+    //   id: 3,
+    //   icon: "flaticon-diamond",
+    //   name: "Diamond Plan",
+    //   amount: "40.00",
+    //   features: ["Extra features", "Lifetime free support", "Upgrade options"],
+    // },
   ],
 };

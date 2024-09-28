@@ -17,7 +17,7 @@ const AboutConference = () => {
                     open-access publishing with a quick turnaround. All conference articles will be published online
                     right after the conference.
 
-                    To learn more, reach out to us at [email address removed].
+                    To learn more, reach out to us at info@bajournals.com.
                 </p>
                 <h3 style={{fontSize: 24, marginBottom: -15}} className="sec-title-six sec-title-six__title">Benefits of Attending our Conferences</h3>
                 <ul>
